@@ -1,2 +1,2 @@
 # personal-website
-This will be what nathanlonghur.st goes to.
+This is what nathanlonghur.st goes to.
